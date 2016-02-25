@@ -1,2 +1,2 @@
-# atom-react-typescript-snippets
+# atom-typescript-snippets
 atom snippets for tsx
