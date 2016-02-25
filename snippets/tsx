@@ -1,4 +1,4 @@
-".source.js":
+".source.tsx":
   "React: componentDidMount() { ... }":
     prefix: "_cdm"
     body: "componentDidMount() {\n\t${1}\n}${2}"
